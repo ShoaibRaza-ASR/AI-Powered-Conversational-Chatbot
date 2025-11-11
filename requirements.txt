@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+langchain-openai
+
+
+
+# fastapi>=0.95
+# uvicorn[standard]>=0.20
+# python-dotenv>=1.0
+# openai>=1.0
+# langchain-openai
+# langchain-core
+# redis>=4.0 # optional (only needed if using REDIS_URL)
